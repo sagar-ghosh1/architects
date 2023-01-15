@@ -337,7 +337,8 @@ header {
 /*********** Contact Section **********/
 .contact-form {
     padding: 30px 0 50px 0;
-    background-color: #fad6e45d;
+    background-color: #adcc9d5d;
+    border-radius: 10px;
 }
 
 .contact-info {
@@ -503,11 +504,6 @@ textarea {
         width: 58%;
         margin: auto;
     }
-
-    /* .blog-features article{
-        width: 90%;
-        margin: auto;
-    } */
 
     .experience-media img {
         margin-top: 100px;
